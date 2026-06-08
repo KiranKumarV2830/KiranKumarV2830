@@ -87,11 +87,9 @@
 
 ---
 
-## 📈 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=KiranKumarV2830&color=blue&style=flat-square)
 
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranKumarV2830&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranKumarV2830&layout=compact&theme=tokyonight&hide_border=true)
-
+🔥 Actively committing — check my repositories below!
 ---
 
 ## 🤝 Connect With Me

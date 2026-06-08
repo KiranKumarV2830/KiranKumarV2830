@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Kiran Kumar V 👋</h1>
 
 <p align="center">
-  🎓 CSE Student &nbsp;|&nbsp; 🤖 Aspiring Generative AI Engineer &nbsp;|&nbsp; 📍 Bangalore, India
+  "Engineering student | Aspiring AI Engineer | Python · JS · HTML/CSS | Bengaluru 🇮🇳"
 </p>
 
 ---
